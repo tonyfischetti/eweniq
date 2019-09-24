@@ -1,0 +1,9 @@
+
+Edit the Makefile to use your preferred C compiler
+Change the install location prefix, if you wish
+
+    $ make
+    $ make install
+
+You may have to have to run `sudo make install` depending on your
+permissions and install prefix
